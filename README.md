@@ -1,6 +1,6 @@
 [![Git Badge](http://img.shields.io/badge/-PSK-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/SangKyoungPark?tab=repositories)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tltmzh3@gmail.com)](mailto:tltmzh3@gmail.com)
-	
+[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/invite/08f53a17d900072cd26f6d2281dc24ef6dce78a5)](https://www.notion.so/invite/08f53a17d900072cd26f6d2281dc24ef6dce78a5)
 	
 ### Hi there 👋
  
