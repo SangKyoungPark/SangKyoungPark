@@ -1,4 +1,4 @@
-[![Git Badge](http://img.shields.io/badge/-PSK-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Git Badge](http://img.shields.io/badge/-PSK-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/SangKyoungPark?tab=repositories)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tltmzh3@gmail.com)](mailto:tltmzh3@gmail.com)
 	
 	
