@@ -12,7 +12,7 @@ I hope I can improve my job qualification in the near future ⭐
 
 
  
-### 🧸 Skills  
+### Skills 🚴  
  
  
    
