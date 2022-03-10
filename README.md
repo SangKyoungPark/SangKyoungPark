@@ -6,7 +6,7 @@
  
 My dream is to become a  **Software** **Developer** 🚀
 
-I enjoy fitness, Mountain climbing, and Boxing. 🥊 🏃
+I enjoy Fitness, Mountain climbing, and Boxing. 🥊 🏃
 
 I hope I can improve my job qualification in the near future ⭐
 
