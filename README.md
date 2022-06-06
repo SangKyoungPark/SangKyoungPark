@@ -10,7 +10,7 @@
 ---
 ## 🙂 Introduce
  
-	My dream is to become a  **SmartFactory Software Developer** 
+	My dream is to become a  **Software Developer** 
 	I enjoy Fitness, Mountain climbing!
 	I hope I can improve my job qualification in the near future ⭐
 ---
