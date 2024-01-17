@@ -25,4 +25,7 @@
 > 🛠️ Programming Languages
 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-339966?style=flat-square&logo=Kotlin&logoColor=003300"/>
- 
+
+
+> Running
+![](./profile-3d-contrib/profile-green-animate.svg)
